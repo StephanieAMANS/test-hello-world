@@ -1,2 +1,4 @@
 # test-hello-world
-Just a new test
+
+I'm training to use GitHub for my Developer Web training ...
+I can't wait to start my first project
